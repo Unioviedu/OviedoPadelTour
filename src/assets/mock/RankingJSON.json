@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "row_id": 2,
+            "Nombre": "Chadri",
+            "Ganados": "3",
+            "Perdidos": "1",
+            "Num. Partidos": "4",
+            "%": "75"
+        },
+        {
+            "row_id": 3,
+            "Nombre": "Mateo",
+            "Ganados": "5",
+            "Perdidos": "2",
+            "Num. Partidos": "7",
+            "%": "71,43"
+        },
+        {
+            "row_id": 4,
+            "Nombre": "Edu",
+            "Ganados": "3",
+            "Perdidos": "2",
+            "Num. Partidos": "5",
+            "%": "60"
+        },
+        {
+            "row_id": 5,
+            "Nombre": "Pablo",
+            "Ganados": "3",
+            "Perdidos": "2",
+            "Num. Partidos": "5",
+            "%": "60"
+        },
+        {
+            "row_id": 6,
+            "Nombre": "Jaime",
+            "Ganados": "0",
+            "Perdidos": "3",
+            "Num. Partidos": "3",
+            "%": "0"
+        },
+        {
+            "row_id": 7,
+            "Nombre": "Dani",
+            "Ganados": "0",
+            "Perdidos": "2",
+            "Num. Partidos": "2",
+            "%": "0"
+        },
+        {
+            "row_id": 8,
+            "Nombre": "Fernando",
+            "Ganados": "0",
+            "Perdidos": "2",
+            "Num. Partidos": "2",
+            "%": "0"
+        }
+    ],
+    "total": 7
+}

@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "row_id": 2,
+            "Ganador1": "Mateo",
+            "Ganador2": "Pablo",
+            "Perdedor1": "Chadri",
+            "Perdedor2": "Fernando",
+            "Resultado1": "6-4",
+            "Resultado2": "6-3"
+        },
+        {
+            "row_id": 3,
+            "Ganador1": "Mateo",
+            "Ganador2": "Chadri",
+            "Perdedor1": "Pablo",
+            "Perdedor2": "Fernando",
+            "Resultado1": "7-5",
+            "Resultado2": "7-5"
+        },
+        {
+            "row_id": 4,
+            "Ganador1": "Mateo",
+            "Ganador2": "Chadri",
+            "Perdedor1": "Edu",
+            "Perdedor2": "Dani",
+            "Resultado1": "6-1",
+            "Resultado2": "6-3"
+        },
+        {
+            "row_id": 5,
+            "Ganador1": "Edu",
+            "Ganador2": "Chadri",
+            "Perdedor1": "Mateo",
+            "Perdedor2": "Dani",
+            "Resultado1": "1-6",
+            "Resultado2": "6-4",
+            "Resultado3": "6-4"
+        },
+        {
+            "row_id": 6,
+            "Ganador1": "Mateo",
+            "Ganador2": "Pablo",
+            "Perdedor1": "Edu",
+            "Perdedor2": "Jaime",
+            "Resultado1": "7-5",
+            "Resultado2": "6-4"
+        },
+        {
+            "row_id": 7,
+            "Ganador1": "Mateo",
+            "Ganador2": "Edu",
+            "Perdedor1": "Pablo",
+            "Perdedor2": "Jaime",
+            "Resultado1": "6-2",
+            "Resultado2": "6-3"
+        },
+        {
+            "row_id": 8,
+            "Ganador1": "Edu",
+            "Ganador2": "Pablo",
+            "Perdedor1": "Mateo",
+            "Perdedor2": "Jaime",
+            "Resultado1": "6-1",
+            "Resultado2": "6-2"
+        }
+    ],
+    "total": 7
+}

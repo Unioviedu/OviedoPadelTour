@@ -1,0 +1,24 @@
+<div class="main">
+    <div class="header">
+        <div class="header_content" >
+            <div class="title">
+                Ranking
+            </div>
+            <div class="subtitle">
+                Clasificación de los jugadores del circuito Oviedo World Tour.
+            </div>
+        </div>
+    </div>
+    <div class="list">
+        <div class="list_content">
+            <div v-for="(player, index) in ranking" class="player_ranking" style="margin-bottom: 10px;">
+                <PlayerRankingCard :position="index + 1"
+                                   :name="player.name"
+                                   :wins="player.numMatchesWins"
+                                   :defeats="player.numMatchesLost"
+                                   :percentage="player.percetageWins"
+                />
+            </div>
+        </div>
+    </div>
+</div>
